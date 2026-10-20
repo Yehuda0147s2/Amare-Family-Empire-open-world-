@@ -1,0 +1,6 @@
+{
+  "name": "Humans vs. Anita — 3D Cyberpunk Game & World Factory",
+  "description": "An open-world 3D cyberpunk exploration game and automated procedural world factory pitting human resistance against hostile AI Anita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
